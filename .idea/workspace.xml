@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48138343-dd76-404b-9d18-17574f54431d" name="Default Changelist" comment="" />
+    <list default="true" id="48138343-dd76-404b-9d18-17574f54431d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +30,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a5d6a1b8-d3ef-4214-9006-32a03944f4ae" />
   </component>
   <component name="ProjectId" id="1gM5hOZ9cIMm9VDReL9UY6uDwdm" />
   <component name="ProjectViewState">
@@ -38,7 +44,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -63,7 +69,8 @@
       <workItem from="1600140174262" duration="7820000" />
       <workItem from="1600168006868" duration="13366000" />
       <workItem from="1600188999566" duration="800000" />
-      <workItem from="1600222202355" duration="2438000" />
+      <workItem from="1600222202355" duration="3471000" />
+      <workItem from="1600933549280" duration="24000" />
     </task>
     <servers />
   </component>
@@ -80,12 +87,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600142955696">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600224938179">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600142955696" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600224938179" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1600189294748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -98,9 +106,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="772" y="418" key="Github.ShareDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600189331238" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1600224028250">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1600225056691">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600224028250" />
+    <state x="461" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600225056691" />
   </component>
 </project>
